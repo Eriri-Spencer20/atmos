@@ -28,7 +28,7 @@ const[ IsMobile, setIsMobile ] = useState(false)
             <a href="#" className="block px-4 py-2 lg:py-4 text-skyblue-50 hover:text-white">
               Gallery
             </a>
-          </div>
+          </div> 
         </div> 
       </div>
     </div>
